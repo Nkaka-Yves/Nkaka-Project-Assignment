@@ -8,22 +8,22 @@ body {
 }
 #pro1 {
     color: wheat;
-    text-align: left;
-    line-break: normal;
+    text-align: center;
     background-color: rgba(48, 33, 2, 0.479) ;
-    width: 50%;
+    float:left;
+    width:100px;
   }
 #pro2 {
     color: wheat;
-    text-align: left;
-    line-break: normal;
+    text-align: center;
     background-color: rgba(48, 33, 2, 0.726) ;
-    width: 50%;
+    float:right;
+    width:100px;
 }
 #pro3 {
     color: wheat;
-    text-align: left;
-    line-break: normal;
+    text-align: center;
     background-color: rgba(48, 33, 2, 0.966) ;
-    width: 50%;
+    margin:0 auto;
+    width:100px;
 }
