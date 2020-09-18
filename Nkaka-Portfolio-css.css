@@ -11,14 +11,14 @@ body {
     text-align: center;
     background-color: rgba(48, 33, 2, 0.479) ;
     float:left;
-    width:100px;
+    width:80px;
   }
 #pro2 {
     color: wheat;
     text-align: center;
     background-color: rgba(48, 33, 2, 0.726) ;
     float:right;
-    width:100px;
+    width:80px;
 }
 #pro3 {
     color: wheat;
