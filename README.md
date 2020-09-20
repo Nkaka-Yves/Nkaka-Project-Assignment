@@ -8,6 +8,7 @@ This is my portfolio and is build in html and css and this provide information a
 * go to github 
 * search Nkaka-Project-assignment1 repository
 * Go to description you will see the link
+* click on it you will outmatically go to site
 ## Technologies Used
 I used Html 5 and CSS to build this
 ## Support and contact details
